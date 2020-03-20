@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://manav:manav123@myfreecluster-supsc.mongodb.net/test?retryWrites=true&w=majority"
+}
