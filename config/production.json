@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://manav:manav123@myfreecluster-supsc.mongodb.net/devconnect?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "e4ca78d6e240f3b9881a",
+  "githubSecret": "6ab26a6bd870171838651e6eb73f8304f837afd8"
+}
